@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Adila
 #### Just a lil about me
 
-- 21 years old
+- 22 years old
 - CS student in IIUM, Malaysia
 - Build projects for fun and improve skills
 

@@ -17,6 +17,5 @@ I'm a 23-year-old developer currently building projects for fun and growth while
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![](https://visitcount.itsvg.in/api?id=dilafaizul&icon=6&color=5)](https://visitcount.itsvg.in)
 
 
